@@ -3,10 +3,6 @@
 This repository contains the code and data for the paper:  
 **"Enhancing SRAM-Based PUF Reliability Through Machine Learning-Aided Calibration Techniques."**
 
-⚠️ **Note:**  
-- The raw data for Arduino **UNO** boards are included in this repo.  
-- The raw data for **Zero** boards (CSV >100MB) will be provided via a Google Drive link upon request.  
-
 ---
 
 ## Repository Overview
@@ -32,6 +28,9 @@ After extraction, you will find:
 
 Use `Response_processing.py` to read and process the raw `.csv` files.
 
+⚠️ **Note:**  
+- The raw data for Arduino **UNO** boards are included in this repo.  
+- The raw data for **Zero** boards (CSV >100MB) will be provided via a Google Drive link upon request.  
 ---
 
 ## 2. ML-Based PUF Recalibration
