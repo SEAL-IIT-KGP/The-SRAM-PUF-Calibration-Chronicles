@@ -5,8 +5,7 @@ This repository contains the code and data for the paper:
 
 ⚠️ **Note:**  
 - The raw data for Arduino **UNO** boards are included in this repo.  
-- The raw data for **Zero** boards (CSV >100MB) will be provided via a Google Drive link in the camera-ready version.  
-- Full code and datasets to reproduce all plots will also be included in the camera-ready release.  
+- The raw data for **Zero** boards (CSV >100MB) will be provided via a Google Drive link upon request.  
 
 ---
 
